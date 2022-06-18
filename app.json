@@ -1,7 +1,7 @@
 {
-	"name": "Hisoka-Morou",
+	"name": "Dux-bot",
 	"description": "WhatsApp Bot Using Lib Baileys",
-	"repository": "https://github.com/DikaArdnt/Hisoka-Morou",
+	"repository": "https://github.com/Quad-hir/Dux-bot",
 	"logo": "https://node-js-sample.herokuapp.com/node.png",
 	"keywords": ["multi-device"]
 }
