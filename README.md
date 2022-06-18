@@ -1,11 +1,9 @@
 # CATATAN ( NOTE )
-Mulai saat ini, script ini tidak akan dilanjutkan lagi, jika ingin menambah sesuatu lebih baik dibuat pribadi aja, malah keren itu lhu punya tapi yang lain kaga jadi lhu bisa jual tu fitur kalo di publik di script ini mungkin kalian akan rugi sendiri, sudah susah-susah bikin code tapi malah dijual Ama yang cuma modal nyomot doang & dibuat konten yt, yutuber untung yang buat kaga, tapi terserah kalian juga kalo mau pull ya tetep saya ACC
-
-Kalo mau jualan normal aja, jangan sampe nipu atau memberi harapan kosong, contohnya "dijual fitur langkah ada storenya 😱", gabaik itu, mau untung boleh tapi jangan sampe merugikan orang lain 
+From now on,this script will no longer be continued, if you want to add something, it's better to make it private, it's cool,you have it, but the others don't, so you can sell the feature, if it's public in this script, maybe you will lose yourself, it's already difficult-difficult to make code but sell it Ama, who only takes money and makes content, YouTubers are lucky for you, but it's up to you if you want to pull it, I'll still ACC
 
 Best Regards. Hisoka
 
-# Hisoka-Morou
+# Dux-bot
 Script WhatsApp Bot Multi Device
 
 ## NOTE
