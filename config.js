@@ -1,7 +1,7 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
+   * Create By Quadhir.
+   * Contact Me on wa.me/2347082252014
+   * Follow https://github.com/Quad-hir
 */
 
 const fs = require('fs')
@@ -18,23 +18,23 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6283167714830','6281382420312','6288292024190']
-global.premium = ['6288292024190']
-global.packname = 'Hisoka Morrow'
+global.owner = ['2347082252014']
+global.premium = ['2347082252014']
+global.packname = 'Dux-bot'
 global.author = 'WhatsApp Bot'
-global.sessionName = 'hisoka'
+global.sessionName = 'Dux'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '✓ Success',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
-    group: 'Fitur Digunakan Hanya Untuk Group!',
-    private: 'Fitur Digunakan Hanya Untuk Private Chat!',
-    bot: 'Fitur Khusus Pengguna Nomor Bot',
+    admin: 'Admin Group Special Features!',
+    botAdmin: 'Bot Must Become Admin First!',
+    owner: 'Owner Bot Special Features',
+    group: 'Feature Used For Group Only!',
+    private: 'Feature Used For Private Chat Only!',
+    bot: 'Feature Only For Number Bot Users',
     wait: 'Loading...',
-    endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
+    endLimit: 'Your Daily Limit Has Expired, Limit Will Reset Every 12Hours',
 }
 global.limitawal = {
     premium: "Infinity",
